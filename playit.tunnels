@@ -9,7 +9,7 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "",
+          "assigned_domain": "due-termination.gl.joinmc.link",
           "assigned_srv": "due-termination.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
